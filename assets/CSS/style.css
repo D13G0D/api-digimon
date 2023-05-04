@@ -1,0 +1,31 @@
+#nav{
+    display: flex;
+    height: 20rem;
+    background-image: url(/assets/IMG/digimonLogo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+#buscador{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    
+}
+#buscador>input{
+    background-color:rgb(178, 189, 212);
+    border: 1px black solid;
+    border-radius: 10%;    
+}
+
+body{
+    background-image: url(/assets/IMG/fondoStars.jpg);
+    
+}
+#digimonTarjets{
+   margin-top: 10px;
+}
+
