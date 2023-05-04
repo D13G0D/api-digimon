@@ -1,7 +1,7 @@
 #nav{
     display: flex;
     height: 20rem;
-    background-image: url(/assets/IMG/digimonLogo.jpg);
+    background-image: url(../IMG/digimonLogo.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -22,7 +22,7 @@
 }
 
 body{
-    background-image: url(/assets/IMG/fondoStars.jpg);
+    background-image: url(../IMG/fondoStars.jpg);
     
 }
 #digimonTarjets{
